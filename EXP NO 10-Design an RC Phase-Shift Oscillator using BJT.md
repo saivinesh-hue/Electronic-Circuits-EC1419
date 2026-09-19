@@ -16,6 +16,8 @@
 
 ## calculation
 <img width="1220" height="1600" alt="WhatsApp Image 2026-09-19 at 17 32 25" src="https://github.com/user-attachments/assets/3e022342-ab8c-4b4c-8936-a4943f80ed5a" />
+
+
 ## result
 
 <img width="837" height="1334" alt="WhatsApp Image 2026-09-19 at 17 32 24" src="https://github.com/user-attachments/assets/41b95046-f09e-40d4-a739-b6843f27160b" />
